@@ -3,7 +3,7 @@
 ## ** INDICE**
 
 1. [Intro](#)
-2. [Quéconstrui ](#)
+2. [Qué construi ](#)
 3. [Objetivo del proyecto ](#)
 4. [Link a demo ](#)
 
